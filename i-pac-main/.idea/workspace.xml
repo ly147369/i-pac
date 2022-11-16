@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="477c9f4c-be4f-429b-ad43-6172f1b2866b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/video2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/angle_cv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/math_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/orderdict_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeeThroughWall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeeThroughWall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/yige.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/see_through_wall/back_diff_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/see_through_wall/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/see_through_wall/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/see_through_wall/pdr_match_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/angle_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/angle_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SeeThroughWall" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>normalize</find>
+      <find>calcHist</find>
+      <find>putText</find>
+      <find>cv2.</find>
+      <find>0.03</find>
+      <find>threshold_level</find>
+      <find>zero</find>
+      <find>match0.2</find>
+      <find>match0.3</find>
+      <find>match0.4</find>
+      <find>match0.5</find>
+      <find>match0.1</find>
+      <find>match</find>
+      <find>background_queue</find>
+      <find>backage_queue</find>
+      <find>PDr</find>
+      <find>pdr_queue</find>
+      <find>print</find>
+      <find>match_pdr_cv</find>
+      <find>logging</find>
+      <find>object_hook</find>
+      <find>queue</find>
+      <find>web_</find>
+      <find>cal_background_image</find>
+      <find>random</find>
+      <find>rando</find>
+      <find>pdr</find>
+      <find>copy</find>
+      <find>current_image</find>
+      <find>cal_back</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WND7t64ZQoOQuHRmchUjMFDOSl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DanyLee\PycharmProjects\SeeThroughWall\data" />
+      <recent name="C:\Users\DanyLee\PycharmProjects\SeeThroughWall\see_through_wall" />
+      <recent name="C:\Users\DanyLee\PycharmProjects\SeeThroughWall\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DanyLee\PycharmProjects\SeeThroughWall\see_through_wall" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="back_diff_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeeThroughWall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/see_through_wall" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/see_through_wall/back_diff_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeeThroughWall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/see_through_wall" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/see_through_wall/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqllite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeeThroughWall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/sqllite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taskworker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeeThroughWall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/taskworker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeeThroughWall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/web_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.back_diff_method" />
+        <item itemvalue="Python.web_test" />
+        <item itemvalue="Python.sqllite" />
+        <item itemvalue="Python.taskworker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="477c9f4c-be4f-429b-ad43-6172f1b2866b" name="Default Changelist" comment="" />
+      <created>1555829997330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555829997330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_mydict_test_py - 2019.09.01 at 09h 39m 17s.xml">
+      <configuration name="Unittests in mydict_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mydict_test_TestDict - 2019.09.01 at 09h 39m 59s.xml">
+      <configuration name="Unittests for mydict_test.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mydict_test_TestDict_test_keyerror - 2019.09.01 at 09h 40m 28s.xml">
+      <configuration name="Unittests for mydict_test.TestDict.test_keyerror" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mydict_test_TestDict - 2019.09.01 at 09h 40m 48s.xml">
+      <configuration name="Unittests for mydict_test.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mydict_test_TestDict - 2019.09.01 at 09h 42m 49s.xml">
+      <configuration name="Unittests for mydict_test.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mydict_test_TestDict - 2019.09.01 at 09h 44m 05s.xml">
+      <configuration name="Unittests for mydict_test.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mydict_test_TestDict - 2019.09.01 at 09h 44m 34s.xml">
+      <configuration name="Unittests for mydict_test.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_mydict_test_py - 2019.09.01 at 09h 57m 05s.xml">
+      <configuration name="Unittests in mydict_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Dict - 2019.09.01 at 09h 58m 38s.xml">
+      <configuration name="Doctests in Dict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Dict - 2019.09.01 at 10h 00m 11s.xml">
+      <configuration name="Doctests in Dict" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="222" key="SettingsEditor" timestamp="1578982115961">
+      <screen x="99" y="0" width="1949" height="1152" />
+    </state>
+    <state x="577" y="222" key="SettingsEditor/2684.0.956.1920/99.0.1949.1152@99.0.1949.1152" timestamp="1578982115961" />
+  </component>
+</project>
